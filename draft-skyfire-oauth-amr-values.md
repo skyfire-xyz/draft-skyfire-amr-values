@@ -3,7 +3,7 @@ title: "Additional Authentication Method Reference Values"
 abbrev: "Additional AMR Values"
 category: std
 
-docname: draft-skyfire-amr-values-latest
+docname: draft-skyfire-oauth-amr-values-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 #number:
 date:
@@ -18,12 +18,12 @@ keyword:
  - payment
  - commerce
 venue:
-  github: "skyfire-xyz/draft-skyfire-amr-values"
+  github: "skyfire-xyz/draft-skyfire-oauth-amr-values"
 #  group: WG
 #  type: Working Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
-  latest: "https://skyfire-xyz.github.io/draft-skyfire-amr-values/draft-skyfire-amr-values.html"
+  latest: "https://skyfire-xyz.github.io/draft-skyfire-oauth-amr-values/draft-skyfire-oauth-amr-values.html"
 
 author:
 -
