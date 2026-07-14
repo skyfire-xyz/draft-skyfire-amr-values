@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-12T00:51:29.505330+00:00",
+  "timestamp": "2026-07-14T00:44:07.392172+00:00",
   "repo": "skyfire-xyz/draft-skyfire-oauth-amr-values",
   "labels": [
     {
@@ -50,5 +50,46 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTL-pLM7xSm1p",
+      "title": "Add Nash and Srini",
+      "url": "https://github.com/skyfire-xyz/draft-skyfire-oauth-amr-values/pull/1",
+      "state": "OPEN",
+      "author": "selfissued",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Cc: @experian-nashali @sthumma33",
+      "createdAt": "2026-07-13T22:17:04Z",
+      "updatedAt": "2026-07-13T23:21:44Z",
+      "baseRepository": "skyfire-xyz/draft-skyfire-oauth-amr-values",
+      "baseRefName": "main",
+      "baseRefOid": "5b0fc7979c045f47a71c7fed4d88d4c775999f1d",
+      "headRepository": "skyfire-xyz/draft-skyfire-oauth-amr-values",
+      "headRefName": "mbj-add-authors",
+      "headRefOid": "91e8d78375283403fbe8a90beb13df7e7b5e4230",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOTL-pLM8AAAABF4YpKA",
+          "commit": {
+            "abbreviatedOid": "91e8d78"
+          },
+          "author": "skyfire-ankit",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2026-07-13T23:21:44Z",
+          "updatedAt": "2026-07-13T23:21:44Z",
+          "comments": []
+        }
+      ]
+    }
+  ]
 }
