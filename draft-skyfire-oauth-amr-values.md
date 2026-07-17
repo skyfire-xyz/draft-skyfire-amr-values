@@ -186,70 +186,70 @@ established by {{RFC8176}}.
 * Authentication Method Reference Name: app
 * Authentication Method Reference Description: Authenticator App
 * Change Controller: IETF
-* Specification Document(s): (#appMethod) of this specification
+* Specification Document(s): {{appMethod}} of this specification
 
 ### "bg" Method
 
 * Authentication Method Reference Name: bg
 * Authentication Method Reference Description: Background Authentication
 * Change Controller: IETF
-* Specification Document(s): (#bgMethod) of this specification
+* Specification Document(s): {{bgMethod}} of this specification
 
 ### "email" Method
 
 * Authentication Method Reference Name: email
 * Authentication Method Reference Description: Code or link sent to e-mail
 * Change Controller: IETF
-* Specification Document(s): (#emailMethod) of this specification
+* Specification Document(s): {{emailMethod}} of this specification
 
 ### "call" Method
 
 * Authentication Method Reference Name: call
 * Authentication Method Reference Description: Voice call providing code
 * Change Controller: IETF
-* Specification Document(s): (#callMethod) of this specification
+* Specification Document(s): {{callMethod}} of this specification
 
 ### "code" Method
 
 * Authentication Method Reference Name: code
 * Authentication Method Reference Description: Code provided to and entered by user
 * Change Controller: IETF
-* Specification Document(s): (#codeMethod) of this specification
+* Specification Document(s): {{codeMethod}} of this specification
 
 ### "url" Method
 
 * Authentication Method Reference Name: url
 * Authentication Method Reference Description: URL provided to and clicked on by user
 * Change Controller: IETF
-* Specification Document(s): (#urlMethod) of this specification
+* Specification Document(s): {{urlMethod}} of this specification
 
 ### "push" Method
 
 * Authentication Method Reference Name: push
 * Authentication Method Reference Description: Push notification to mobile phone
 * Change Controller: IETF
-* Specification Document(s): (#pushMethod) of this specification
+* Specification Document(s): {{pushMethod}} of this specification
 
 ### "facliv" Method
 
 * Authentication Method Reference Name: facliv
 * Authentication Method Reference Description: Facial Recognition with Liveness Check
 * Change Controller: IETF
-* Specification Document(s): (#faclivMethod) of this specification
+* Specification Document(s): {{faclivMethod}} of this specification
 
 ### "sqa" Method
 
 * Authentication Method Reference Name: sqa
 * Authentication Method Reference Description: Security Question Answers
 * Change Controller: IETF
-* Specification Document(s): (#sqaMethod) of this specification
+* Specification Document(s): {{sqaMethod}} of this specification
 
 ### "psk" Method
 
 * Authentication Method Reference Name: psk
 * Authentication Method Reference Description: Passkey
 * Change Controller: IETF
-* Specification Document(s): (#pskMethod) of this specification
+* Specification Document(s): {{pskMethod}} of this specification
 
 
 --- back
