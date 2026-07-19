@@ -265,6 +265,7 @@ established by {{RFC8176}}.
 
 * Moved "inp" and "vid" methods to the ID Verification spec.
 * Added "call", "code", "url", "facliv", "sqa", and "psk" methods.
+* Added Nash Ali and Srinivasa Thumma as authors.
 
 -00
 
