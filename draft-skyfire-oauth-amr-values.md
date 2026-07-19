@@ -261,6 +261,11 @@ established by {{RFC8176}}.
 
 [[ to be removed by the RFC Editor before publication as an RFC ]]
 
+-01
+
+* Moved "inp" and "vid" methods to the ID Verification spec.
+* Added "call", "code", "url", "facliv", "sqa", and "psk" methods.
+
 -00
 
 * Initial draft.
